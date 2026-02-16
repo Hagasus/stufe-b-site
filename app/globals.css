@@ -73,12 +73,12 @@ html, body {
   letter-spacing: 0.5em;
   margin-top: 1rem;
   text-transform: uppercase;
-  opacity: 0.links {
-  display: flex;
-  gap: .8;
+  opacity: 0.8;
 }
 
-2rem;
+.links {
+  display: flex;
+  gap: 2rem;
   margin-top: 3rem;
   flex-wrap: wrap;
   justify-content: center;
