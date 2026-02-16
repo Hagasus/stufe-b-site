@@ -89,6 +89,22 @@ export default function Home() {
         
         <p className="scroll-indicator">SCROLL DOWN</p>
       </div>
+
+      <section className="lena-section">
+        <h2 className="lena-title">Lena</h2>
+        <img src="/lena.jpg" alt="Lena from Stufe B" className="lena-image" />
+      </section>
+
+      <section className="about-section">
+        <h2 className="about-title">Über Uns</h2>
+        <p className="about-text">
+          STUFE B ist Synthpop/Synthwave aus dem Erzgebirge. 
+          Dunkel aber hoffnungsvoll. Elektronisch und emotional.
+          <br /><br />
+          Seit 2024 begeistern wir unsere Fans mit eingängigen Melodien 
+          und neonbeleuchteten Sounds.
+        </p>
+      </section>
     </>
   )
 }
